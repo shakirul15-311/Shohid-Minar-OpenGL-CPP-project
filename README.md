@@ -5,7 +5,8 @@ Shohid Minar OpenGL C++ project
 
 #### Shahid Minar OpenGL C++ project. Shahid Minar OpenGL C++ project.
 
-#Credit goes to: Tahira Islam
+###### Credit goes to: Tahira Islam
+#####
 Little Modified code: https://github.com/shakirul15-311/Shohid-Minar-OpenGL-CPP-project
 #
 Original source code: https://gist.github.com/2hin/4c34dd46e8ed4a1231650610859276b2
